@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webtolsz.pages.dev/sitemap.xml
